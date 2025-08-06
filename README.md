@@ -14,7 +14,7 @@ An array in C or C++ is a collection of items stored at contiguous memory locati
 
 2. <ins>One Dimensional Array</ins>: A one dimensional array is a collection of same data.
 
-<img width="888" height="449" alt="Screenshot 2025-08-06 083128" src="https://github.com/user-attachments/assets/66e5d96f-f8d1-41a0-be93-f260f123d047" />
+<img width="800" height="400" alt="Screenshot 2025-08-06 083128" src="https://github.com/user-attachments/assets/66e5d96f-f8d1-41a0-be93-f260f123d047" />
 
 1. <ins>Multi-Dimensional Array</ins>: A multi-dimensional array is also known as array of arrays. Generally, we use a two-dimensional array. It is also known as the matrix. We use two indices to traverse the rows and columns of the 2D array
 
